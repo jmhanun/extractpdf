@@ -6,6 +6,11 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
+# archivos
+*.pdf
+*.xml
+*.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
